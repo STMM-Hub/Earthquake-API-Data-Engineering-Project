@@ -44,7 +44,7 @@ The final output is a Power BI dashboard that provides:
 ```bash
 .
 ├── Databricks Notebooks/        # Azure Databricks notebooks
-├── Data Factory pipelines/      # ADF pipeline notebooks
+├── Data Factory Pipelines/      # ADF pipeline notebooks
 ├── Dashboard/                   # Power BI .pbix files and screenshots
 ├── README.md                    # Project documentation (this file)
 ```
